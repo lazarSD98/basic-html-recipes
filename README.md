@@ -1,1 +1,1 @@
-# basic-html-recipes
+A simple HTML website using basic HTML tags such as paragraphs, images, links and ordered and undered lists.
